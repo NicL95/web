@@ -208,6 +208,7 @@ section.sobre .flex{
 
 .sobre .txt-sobre{
     color: #fff;
+    
 }
 
 .sobre .txt-sobre h2{
@@ -337,11 +338,11 @@ footer .line-footer{
 }
 
 .borda{
-    border-bottom: solid 2px #3232E5;
+    border-bottom: solid 2px #aaa;
 }
 
 footer .line-footer p i{
-    color: #fff;
+    color: #aaa;
     font-size: 22px;
 }
 

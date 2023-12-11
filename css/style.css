@@ -75,7 +75,7 @@ button:hover, form .btn-enviar input:hover{
 
 /* #region header */
 header{
-    padding: 40px 4%;
+    padding: 1px 4%;
 }
 
 header > .interface{
@@ -148,6 +148,7 @@ section.topo-do-site .flex{
     position: relative;
     animation: flutuar 2s ease-in-out infinite alternate;
     width: 400px;
+    border-radius: 3rem;
 }
 
 @keyframes flutuar{
@@ -197,6 +198,7 @@ section.especialidades .flex{
 /* #region sobre */
 section.sobre{
     padding: 80px 4%;
+    text-align: center;
 }
 
 section.sobre .flex{
@@ -323,6 +325,7 @@ form .btn-enviar input{
 footer{
     padding: 60px 4%;
     box-shadow: 0 0 40px 10px #ffffff1d;
+    text-align: center;
 }
 
 footer .flex{
@@ -338,7 +341,7 @@ footer .line-footer{
 }
 
 footer .line-footer p i{
-    color: #3232E5;
+    color: #fff;
     font-size: 22px;
 }
 

@@ -127,7 +127,7 @@ header nav.menu-desktop li{
 section.topo-do-site .flex{
     align-items: center;
     justify-content: center;
-    gap: 90px;
+    gap: 80px;
 }
 
 .topo-do-site h1{
@@ -205,13 +205,12 @@ section.especialidades .flex{
 
 /* #region sobre */
 section.sobre{
-    padding: 80px 4%;
+    padding: 10px 4%;
     text-align: center;
 }
 
 section.sobre .flex{
     align-items: center;
-    gap: 60px;
 }
 
 .sobre .txt-sobre{
@@ -232,14 +231,14 @@ section.sobre .flex{
 
 .sobre .txt-sobre p{
     margin: 30px 0;
-    text-align: justify;
+    text-align: center;
     font-size: 19px;
 }
 /* #endregion sobre */
 
 /* #region portfólio */
 section.portfolio{
-    padding: 80px 4%;
+    padding: 30px 4%;
 }
 
 section.portfolio .flex{
